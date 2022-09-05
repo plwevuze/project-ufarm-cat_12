@@ -2,59 +2,91 @@
     margin: 0px;
     padding: 0px;
 }
+
 .img-logo {
     height: 50px;
     width: 50px;
     /* float: left; */
 }
+
 .navbar-brand {
-    font-size: medium;
-    font-family:'Times New Roman', Times, serif;
-    font-weight: bold;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
     color: green;
-}
-.container-fluid {
-    background-color: rgba(161, 161, 214, 0.582);
-}
-#lft {
-    /* padding-left: 680px; */
-    margin-left: 680px;
+
 }
 
-/* .carousel-item {
-    height: 500px;
+.carousel-inner {
+    height: 300px;
     width: 100%;
-    margin-left: 0%;
-    margin-right: 0%;
-    
+}
+
+.dropdown-menu {
+    font-weight: bold;
+}
+
+/* .container-fluid {
+    background-color: rgba(161, 214, 179, 0.788);
+
 } */
+
+#lft {
+
+    margin-left: 500px;
+}
+
+.carousel-fluid {
+
+    margin-left: 0%;
+    margin-right: 0px;
+}
+
+.nav-item {
+    font-size: medium;
+    font-weight: bold;
+}
+
 .col_1 {
     margin: 0;
     padding: 0;
 }
+
 #intro-cards {
     margin-top: 20px;
 
 }
+
 #pp {
     margin-top: 0px;
     margin-bottom: 0px;
     height: 100px;
 }
-#nn {
-        margin-top: 0px;
-            margin-bottom: 0px;
-}
-.container {
 
-     margin-left: 100px;
-    margin-right: auto; 
+#nn {
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
+
+nav {
+    height: 60px;
+}
+
 .card {
     background-color: aquamarine;
 }
 
-/* #acc {
-    padding-left: 680px;
-    
-} */
+#slide-lablez {
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+    text-align: left;
+}
+
+#right-slide-label {
+    font-size: larger;
+    font-weight: bold;
+    font-style: italic;
+    text-align: right;
+    margin-left: 200px;
+}
