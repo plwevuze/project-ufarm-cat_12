@@ -1,0 +1,54 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.img-logo {
+    height: 50px;
+    width: 50px;
+    float: left;
+}
+
+.navbar-brand {
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: green;
+}
+
+.container-fluid {
+    background-color: rgba(161, 161, 214, 0.582);
+}
+
+#lft {
+    /* padding-left: 680px; */
+    margin-left: 680px;
+}
+
+/* .carousel-item {
+    height: 500px;
+    width: 100%;
+    margin-left: 0%;
+    margin-right: 0%;
+
+}
+
+#intro-cards {
+    margin-top: 20px;
+
+}
+
+.container {
+
+    margin-left: 100px;
+    margin-right: auto;
+}
+
+.card {
+    background-color: aquamarine;
+} */
+
+/* #acc {
+    padding-left: 680px;
+    
+} */
