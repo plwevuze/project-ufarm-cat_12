@@ -92,7 +92,7 @@ nav {
 }
 .container-left {
  height: 70%;
- width: 150px;
+ /* width: 150px; */
  display: flex;
  float: left;   
  margin-left: 20px;
@@ -107,4 +107,7 @@ nav {
 .container-center {
     margin-top: 20px;
     width:1000px;
+}
+.tt-center {
+    text-align: center;
 }
