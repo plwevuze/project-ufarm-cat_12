@@ -90,3 +90,21 @@ nav {
     text-align: right;
     margin-left: 200px;
 }
+.container-left {
+ height: 70%;
+ width: 150px;
+ display: flex;
+ float: left;   
+ margin-left: 20px;
+ margin-top: 20px;
+ font-size: large;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-weight: bold;
+ font-style: italic;
+ text-decoration: none;
+ color: black;
+}
+.container-center {
+    margin-top: 20px;
+    width:1000px;
+}
