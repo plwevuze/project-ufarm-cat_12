@@ -26,9 +26,15 @@
     font-weight: bold;
 }
 
-/* .container-fluid {
-    background-color: rgba(161, 214, 179, 0.788);
+.container-fluid {
+    background-color: rgba(161, 214, 179, 0.89);
 
+}
+/* #inputCity {
+    width: 200px;
+}
+#inputState {
+    margin-left: 100px;
 } */
 
 #lft {
@@ -92,7 +98,7 @@ nav {
 }
 .container-left {
  height: 70%;
- /* width: 150px; */
+ width: 150px;
  display: flex;
  float: left;   
  margin-left: 20px;
@@ -110,4 +116,12 @@ nav {
 }
 .tt-center {
     text-align: center;
+}
+
+.lft1, #jjj {
+    float: left;
+   
+}
+.lft1, #kkk {
+    margin-left: 250px;
 }
