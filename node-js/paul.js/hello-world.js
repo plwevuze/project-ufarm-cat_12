@@ -4,4 +4,8 @@ console.log("programming is fun");
 let myname = "PAUL_SEMPIJJA";
 console.log(myname)
 let num1 = 10;
-console.log (num1)
+console.log(num1)
+
+
+
+
